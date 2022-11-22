@@ -6,6 +6,19 @@ pipeline {
             steps {
                 echo 'Hello World'
             }
+        
+    
         }
+        stage('practise') {
+            steps {
+                echo 'practising jenkins'
+            }
+            
+        }    
+            
     }
-}
+}    
+    
+    
+    
+    
