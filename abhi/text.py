@@ -1,5 +1,3 @@
 print("hello world")
-a=10
-b=20
-c=a+b
-print("sum=",c)
+s1={2,3,4,5,6,}
+print(s1)
