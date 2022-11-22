@@ -14,7 +14,7 @@ pipeline {
         }      
         stage('python') {
             steps {
-                echo 'runningg python script'
+                echo 'running python script'
                 bat 'python abhi/text.py'
             } 
             
