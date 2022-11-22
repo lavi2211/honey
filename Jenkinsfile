@@ -11,7 +11,7 @@ pipeline {
         }
         stage('practise') {
             steps {
-                echo 'practising jenkins'
+                echo 'practising jenkins for job'
             }
             
         }    
