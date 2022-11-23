@@ -17,8 +17,8 @@ pipeline {
                 echo 'running python script'
                 bat 'python abhi/text.py'
             } 
-            
-       }    
+        }
+        
     }        
 }    
     
